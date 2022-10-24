@@ -1,5 +1,5 @@
 # Data Cleaning & EDA
-## Types of ML
+## ML Tasks
 - Supervised: Regression, Classificaation
 - Unsupervised: Clustering, Anamoly Detection, Association user learning
 - Semisupervised
